@@ -7,7 +7,6 @@ using UnityEngine.UIElements;
 
 public class Movement : MonoBehaviour
 {
-    public GameObject player;
     [Header("Movement")]
     public Vector3 jump;
     public float jumpForce = 2.0f;
